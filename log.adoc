@@ -1,0 +1,3 @@
+The first commits to this will be pretty scattered. As my usage becomes more consistent, commits will match the approximate time of the activity.
+
+Spent time this morning investigating WebRTC. I was really looking for a way to monitor network connection health so I could display this on my mobile apps. This is part of my ideas around providing more diagnostic information within my apps. The debug view in Powercal was my first dive into this.
