@@ -7,3 +7,5 @@ When I host my next Engineering Practice Fridays session, I want to try remote m
 What's left is a way to switch drivers. Committing to a branch has variable friction. If the mob programming use case wasn't considered by the team, it's quite likely that even branch commits have pre-commit hooks that could reject work in progress. I am currently experimenting with a tar plus Google Bucket solution that should reliably work for just about any setup. My Broad `dmohs` repo is the first attempt.
 
 I read part of an article the other day https://reason.com/2019/08/01/despite-what-democrats-said-at-their-debate-were-not-heading-toward-climate-apocalypse/[[1]] about how maybe the impending climate changes don't necessarily spell doom for the human race.
+
+This is neat: https://www.millionshort.com - search the less search-optimized sites.
