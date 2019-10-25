@@ -9,3 +9,5 @@ What's left is a way to switch drivers. Committing to a branch has variable fric
 I read part of an article the other day https://reason.com/2019/08/01/despite-what-democrats-said-at-their-debate-were-not-heading-toward-climate-apocalypse/[[1]] about how maybe the impending climate changes don't necessarily spell doom for the human race.
 
 This is neat: https://www.millionshort.com - search the less search-optimized sites.
+
+Is this Jesse? https://uvwx.github.io/hierarchy.html[On a hierarchy of software engineering discourse]
