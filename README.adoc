@@ -1,0 +1,7 @@
+= Log
+
+A log of my programming activities and thoughts
+
+== Conventions
+
+One file per year. Current year is `log.adoc`. On the first entry of a new year, that file is renamed and a new `log.adoc` is created for the current year.
