@@ -11,3 +11,5 @@ I read part of an article the other day https://reason.com/2019/08/01/despite-wh
 This is neat: https://www.millionshort.com - search the less search-optimized sites.
 
 Is this Jesse? https://uvwx.github.io/hierarchy.html[On a hierarchy of software engineering discourse]
+
+I've been reading Reddit. Possibly a bad move, but I did find a great programming article. Using a font to display numbers with comma separators. It's elegant. https://blog.janestreet.com/commas-in-big-numbers-everywhere/
