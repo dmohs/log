@@ -13,3 +13,5 @@ This is neat: https://www.millionshort.com - search the less search-optimized si
 Is this Jesse? https://uvwx.github.io/hierarchy.html[On a hierarchy of software engineering discourse]
 
 I've been reading Reddit. Possibly a bad move, but I did find a great programming article. Using a font to display numbers with comma separators. It's elegant. https://blog.janestreet.com/commas-in-big-numbers-everywhere/
+
+Yay for writing code to solve a problem and thus trigger a discussion. This minimal app for switching windows on OSX lead to a nice discussion about window management. https://news.ycombinator.com/item?id=21253850
