@@ -17,3 +17,5 @@ I've been reading Reddit. Possibly a bad move, but I did find a great programmin
 Yay for writing code to solve a problem and thus trigger a discussion. This minimal app for switching windows on OSX lead to a nice discussion about window management. https://news.ycombinator.com/item?id=21253850
 
 Like re-captcha, but you earn money. https://www.hcaptcha.com
+
+Manage your domains agnostic of registrar. https://www.bestdomainportfoliomanager.com/#!/start
