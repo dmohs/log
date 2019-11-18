@@ -20,3 +20,5 @@ Like re-captcha, but you earn money. https://www.hcaptcha.com
 
 Manage your domains agnostic of registrar. https://www.bestdomainportfoliomanager.com/#!/start
 Discussion. https://bookface.ycombinator.com/posts/43161
+
+Shared ephemeral state for horizonally-scaled APIs? https://cloud.google.com/memorystore/docs/redis/
