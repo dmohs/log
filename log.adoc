@@ -21,4 +21,6 @@ Like re-captcha, but you earn money. https://www.hcaptcha.com
 Manage your domains agnostic of registrar. link:https://www.bestdomainportfoliomanager.com/#!/start[]
 Discussion. https://bookface.ycombinator.com/posts/43161
 
+Shared ephemeral state for horizonally-scaled APIs? https://cloud.google.com/memorystore/docs/redis/
+
 Duplicate a tab in Safari: Command + L and then Command + Return (or Enter)
