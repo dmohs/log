@@ -18,5 +18,7 @@ Yay for writing code to solve a problem and thus trigger a discussion. This mini
 
 Like re-captcha, but you earn money. https://www.hcaptcha.com
 
-Manage your domains agnostic of registrar. https://www.bestdomainportfoliomanager.com/#!/start
+Manage your domains agnostic of registrar. link:https://www.bestdomainportfoliomanager.com/#!/start[]
 Discussion. https://bookface.ycombinator.com/posts/43161
+
+Duplicate a tab in Safari: Command + L and then Command + Return (or Enter)
