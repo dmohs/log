@@ -28,3 +28,5 @@ Shared ephemeral state for horizonally-scaled APIs? https://cloud.google.com/mem
 Duplicate a tab in Safari: Command + L and then Command + Return (or Enter)
 
 Since I've been thinking about request-blocking services such as rate limit managers, I've been thinking about latency. I'm seeing around 80ms for HTTPS and 40ms for HTTP, using curl to time the requests. Apple.com is 30 and 60, respectively, perhaps due to CDN. I was curious if Go would be better on AppEngine, so I deployed a simple app and tested it. I got around 70ms and 120ms response times for HTTP and HTTPS, respectively. Worse.
+
+A GUI programming benchmark. Seven UI katas that show off a framework's power. https://eugenkiss.github.io/7guis/
