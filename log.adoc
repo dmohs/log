@@ -32,3 +32,5 @@ Since I've been thinking about request-blocking services such as rate limit mana
 A GUI programming benchmark. Seven UI katas that show off a framework's power. https://eugenkiss.github.io/7guis/
 
 The HN topic, "A Guide to Software Defined Radio" has an interesting discussion about getting into the field. Seems like something I'd like to experiment with. https://news.ycombinator.com/item?id=21846567
+
+Neat idea: A self-rendering document. This puts just enough HTML at the beginning to load a script and render the rest. https://github.com/susam/texme
