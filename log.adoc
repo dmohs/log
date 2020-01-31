@@ -36,3 +36,5 @@ The HN topic, "A Guide to Software Defined Radio" has an interesting discussion 
 Neat idea: A self-rendering document. This puts just enough HTML at the beginning to load a script and render the rest. https://github.com/susam/texme
 
 LD_PRELOAD. An environment variable that basically allows you to patch programs without recompiling. Pretty powerful. https://github.com/gaul/awesome-ld-preload/blob/master/README.md
+
+I am now logging all of my Bash history. Wish I had done so long ago. https://spin.atomicobject.com/2016/05/28/log-bash-history/
